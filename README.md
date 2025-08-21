@@ -27,7 +27,7 @@ The goal is to support decision-making for **sales strategy, customer targeting,
 - Discounts improved sales volume but reduced profitability.  
 
 ## 📸 Dashboard Preview
-`Dashboard/Sales_Dashboard.png`
+![Sales_Dashboard](Dashboard/Sales_Dashboard.png)
   
 ---
 
